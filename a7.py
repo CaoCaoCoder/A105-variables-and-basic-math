@@ -13,6 +13,6 @@ Read through the file **example1.py** for information on using the math module.
 
 F = 62.5
 
-C = round(F-32/1.8, 1)
+C = round((F-32)/1.8, 1)
 
 print (C)
